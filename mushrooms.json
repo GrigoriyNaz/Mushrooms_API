@@ -1,0 +1,42 @@
+[
+  {
+    "mushroom_id": 1,
+    "title": "Белый гриб",  
+    "edibility": true, 
+    "weight": 205.00, 
+    "freshness": 2, 
+    "special_notes": "Без особых примет"
+  },
+  {
+    "mushroom_id": 2,
+    "title": "Подосиновик",  
+    "edibility": true, 
+    "weight": 115.00, 
+    "freshness": 1, 
+    "special_notes": "Без особых примет"
+  },
+  {
+    "mushroom_id": 3,
+    "title": "Масленок",  
+    "edibility": true, 
+    "weight": 50.00, 
+    "freshness": 3, 
+    "special_notes": "Без особых примет"
+  },
+  {
+    "mushroom_id": 4,
+    "title": "Мухомор",  
+    "edibility": false, 
+    "weight": 75.00, 
+    "freshness": 0, 
+    "special_notes": "Без особых примет"
+  },
+  {
+    "mushroom_id": 5,
+    "title": "Волнушка",  
+    "edibility": true, 
+    "weight": 57.00, 
+    "freshness": 0, 
+    "special_notes": "Без особых примет"
+  }
+]
